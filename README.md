@@ -1,4 +1,5 @@
 # Vue Docs Guide
+
 Praticando com a documentação do Vue. 🧑‍💻🚩
 
 ## Project Setup
