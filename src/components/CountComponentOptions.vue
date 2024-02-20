@@ -1,6 +1,5 @@
 <script>
 export default {
-
   /*
     As propriedades retornadas a partir da função "data()" tonam-se estados reativos e deverão ser acessadas através do "this". 
   */
@@ -24,8 +23,7 @@ export default {
   */
   mounted() {
     console.log(`O valor inicial do contador é ${this.count}`);
-  }
-
+  },
 };
 </script>
 
